@@ -1,3 +1,4 @@
+# filepath: c:\Users\Olpos PC\psusenv\PSUSphere\projectsite\projectsite\settings.py
 INSTALLED_APPS = [
     'django.contrib.admin',
     'django.contrib.auth',
@@ -7,5 +8,5 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 
     # app
-    'studentorg',
+    'projectsite.studentorg',
 ]
